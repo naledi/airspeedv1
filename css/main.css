@@ -1,0 +1,68 @@
+body {
+	border: solid 1px #000;
+	font-family: sans-serif;
+	font-size: 1em;
+	background-color: #45C2C5
+}
+
+ p sub {
+	color: orange;
+	
+	position: relative;
+	top: -10px;
+}
+
+h1 {
+	text-align: center;
+	border: solid 1px #000;
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+h2 {
+	text-align: center;
+	border: solid 1px #000;
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+#airspeedIndicatorQuiz{
+	display: inline-block;
+}
+
+input {
+	border: solid 1px #000;
+	width: 95%
+}
+
+#questionForm{
+	border: solid 1px #000;
+	width: 40%;
+	display: inline-block;
+	margin-left: 10%;
+	padding: 2%;
+	float: left;
+
+}
+
+#answerPool{
+	border: solid 1px #000;
+	display: inline-block;
+	padding: 2%;
+	margin-right: 10%;
+
+	 
+}
+
+img, #asiImg{
+	width: 40%;
+	display: inline-block;
+	border: solid 1px #000;
+	border-radius: 5%;
+}
+
+
+
+
